@@ -1,7 +1,7 @@
 package app;
 
 class App{
-    public static void main(String[]  args){
-        System.out.println("App Check");
+    public static void main(String[] args) {
+        System.out.println("testing git");
     }
 }
